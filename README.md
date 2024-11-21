@@ -44,3 +44,6 @@ Random Forest Classifier showed the best performance, with key metrics available
 - Correlation matrix heatmap
 - Target distribution pie chart
 - Failure type frequency bar chart
+
+## Model Valuation 
+With the above machine learning model, on evaluating obtains an accuracy score of 99.8%  
